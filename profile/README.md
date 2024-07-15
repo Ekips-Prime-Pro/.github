@@ -7,4 +7,6 @@ We are Friends that are interested in programming.
 
 ## What do we do?
 
+We try to build or own 
+
 ## Why are we doing it?
