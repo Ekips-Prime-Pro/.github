@@ -8,5 +8,6 @@ We are Friends that are interested in programming.
 ## What do we do?
 
 We try to build or own Upgrades for the Lego Spike Prime environment.
+To achieve better results with less complex work.
 
 ## Why are we doing it?
