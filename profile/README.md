@@ -11,4 +11,5 @@ We try to build or own Upgrades for the Lego Spike Prime environment.
 To achieve better results with less complex work.
 
 ## Why are we doing it?
-Our motivation is to learn a bunch 
+Our motivation is to learn a bunch about different parts of it.
+We have some hardware and software experience that we want to enhance.
